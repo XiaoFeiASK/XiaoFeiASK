@@ -9,7 +9,7 @@
 - Love playing games
 
 <p align="center">
-  <img src="moe.jpg" alt="moe image" width="260" />
+  <img src="xiaofei.jpg" alt="moe image" width="260" />
 </p>
 
 ## 🔭 Currently contributing to
