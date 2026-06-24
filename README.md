@@ -1,5 +1,5 @@
 ## Hi, I'm XiaoFei
-![Typing SVG](https://readme-typing-svg.demolab.com/?lines=愚者在月影之中怀抱虚妄)<br>
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines=啊啊啊)<br>
 **Undergraduate developer exploring AI infrastructure through open source.**
 
 ## 🧭 About Me
