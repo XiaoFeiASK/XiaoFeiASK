@@ -22,9 +22,3 @@
 | [Mooncake](https://github.com/kvcache-ai/Mooncake) | LLM serving / KV cache | KVCache-centric disaggregated architecture for LLM serving |
 | [vLLM Metal](https://github.com/vllm-project/vllm-metal) | LLM runtime on Apple Silicon | Community-maintained vLLM hardware plugin for Apple Silicon |
 | [openinfer](https://github.com/openinfer-project/openinfer) | Rust/CUDA LLM inference | Pure Rust + CUDA LLM inference engine with no PyTorch or model framework runtime |
-
-## 📈 GitHub Activity
-
-<p align="center">
-  <img src="https://yourinsights.vercel.app/api/insight?username=CAICAIIs&theme=radical&graph=true&languages=true&streak=true&stats=true&header=true&summary=true&profile=true" alt="CAICAIIs stats card" width="100%" />
-</p>
