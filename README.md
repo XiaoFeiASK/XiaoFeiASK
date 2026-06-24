@@ -1,5 +1,5 @@
 ## Hi, I'm XiaoFei
-![Typing SVG](https://readme-typing-svg.demolab.com/?lines=啊啊啊)<br>
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines=天行健，君子以自强不息)<br>
 **Undergraduate developer exploring AI infrastructure through open source.**
 
 ## 🧭 About Me
