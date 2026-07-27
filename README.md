@@ -18,7 +18,7 @@
 | --- | --- | --- |
 | [Apache Dubbo-Go](https://github.com/apache/dubbo-go) | Go RPC / microservices | Go implementation of Apache Dubbo for building RPC and microservice systems |
 | [Apache Seata-Go](https://github.com/apache/incubator-seata-go) | Distributed transactions | Go implementation of Seata for distributed transaction coordination |
-| [Tencent CubeSandbox](https://github.com/TencentCloud/CubeSandbox) | AI Agent sandbox / secure runtime | A lightweight AI agent sandbox service built on RustVMM/KVM |
+| [🐧CubeSandbox](https://github.com/TencentCloud/CubeSandbox) | AI Agent sandbox / secure runtime | A lightweight AI agent sandbox service built on RustVMM/KVM |
 ##  🚀 Tech Learning
 
 ### 🔹 Agent： ![LangChain](https://img.shields.io/badge/LangChain-E34C26?style=flat-square&logo=langchain&logoColor=white)![LangGraph](https://img.shields.io/badge/LangGraph-1572B6?style=flat-square)![Spring AI](https://img.shields.io/badge/Spring_AI-6DB33F?style=flat-square&logo=spring&logoColor=white)![Eino](https://img.shields.io/badge/Eino-000000?style=flat-square&logo=go&logoColor=white)
