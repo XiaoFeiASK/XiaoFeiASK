@@ -12,7 +12,7 @@
   <img src="xiaofei.jpg" alt="moe image" width="260" />
 </p>
 
-## 🔭 Currently contributing to...（[Open Source Contributions](https://x-fblogs.vercel.app/opensource)）
+## 🔭 Currently contributing to...（[Open Source Contributions](https://www.xiaofeiawa.online/)）
 
 | Project | Area | About |
 | --- | --- | --- |
