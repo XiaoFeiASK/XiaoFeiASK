@@ -12,7 +12,7 @@
   <img src="xiaofei.jpg" alt="moe image" width="260" />
 </p>
 
-## 🔭 Currently contributing to...（[Open Source Contributions](https://www.xiaofeiawa.online/)）
+## 🔭 Currently contributing to...（[Open Source Contributions](https://www.xiaofeiawa.online/opensource)）
 
 | Project | Area | About |
 | --- | --- | --- |
