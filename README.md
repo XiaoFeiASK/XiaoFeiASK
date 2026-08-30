@@ -2,7 +2,7 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=天行健，君子以自强不息)<br>
 **I’m happy to contribute for free to fun projects & ideas, feel free to email me...**
 
-## 🎓 About Me
+## 🎓 About M
 
 - Love coding
 - Love watching anime
