@@ -6,7 +6,7 @@
 
 - Love coding
 - Love watching anime
-- Love playing games
+- Love playing game
 
 <p align="center">
   <img src="xiaofei.jpg" alt="moe image" width="260" />
